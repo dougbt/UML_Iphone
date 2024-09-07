@@ -1,3 +1,5 @@
+package UML_Iphone.src;
+
 public class iPhone implements Gadget, NavegadorInternet, Camera{
  
     public void video(){
